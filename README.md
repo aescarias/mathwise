@@ -32,6 +32,7 @@ mw > .run
 
 - The factorial operator is still fairly buggy and may not work in some cases.
 - Inputting nothing will cause an error
+- Multiline support is also meh... It could be better.
 
 ## :books: Things to add
 
