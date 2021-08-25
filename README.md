@@ -12,7 +12,7 @@ It can perform most basic calculations you would expect from one
 
 1. Clone the repository or download it
 2. Run the `shell.py` file using this: `python -m mathwise.shell`. Make sure you're outside the main `mathwise` directory.
-3. Follow the instructions showed above
+3. Follow the instructions shown in the prompt and start typing!
 
 ## :gear: Examples
 
