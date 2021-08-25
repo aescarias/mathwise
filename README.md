@@ -16,7 +16,7 @@ It can perform most basic calculations you would expect from one
 
 ## :gear: Examples
 
-```s
+```hs
 mw > (24 + 3) * 500
 mw > .run
 13500
