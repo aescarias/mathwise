@@ -1,6 +1,6 @@
 from . import lexer, parser, interpret
 import os
-print("Welcome to Mathwise. (type '.exit' to exit and '.run' to run the queued lines, '.clear' to clear the console, type '.help' for more infom)")
+print("Welcome to Mathwise. (type '.exit' to exit and '.run' to run the queued lines, '.clear' to clear the console, type '.help' for more info)")
 
 data = ""
 
